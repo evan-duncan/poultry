@@ -23,6 +23,7 @@ library
   hs-source-dirs:      src
   exposed-modules:     Lib
                      , Comb
+                     , Gender
   build-depends:       base >= 4.7 && < 5
   default-language:    GHC2021
   ghc-options:         -Wall
